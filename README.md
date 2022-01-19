@@ -1,1 +1,11 @@
-# CS532-LAB
+---->declared three variables num,div and count.
+--->count is pre initialised as 0.
+----->input has been assigned to number.
+---->gave a conditional statement to check whether the given number is neither prime nor composite.
+--->the init is assigned with num.
+---->a function isPrime is declared which does recursion and returns  int count value to count variable using parameters num,div,count.
+---->int isPrime(int num,int div,int count) is been declared inside int function.
+-----> later the count is then checked with conditional statement to check whether the count is prime or not.
+---->if the count is 2 then it is prime as prime number divides with itself.
+---->if the count is not 2 then it is not prime number.
+   
